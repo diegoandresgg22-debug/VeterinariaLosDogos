@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22828067578",
+    "project_id": "veterinarialosdogos",
+    "storage_bucket": "veterinarialosdogos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22828067578:android:707762759443ac064e7743",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfhVGBNV4iV0vBzXdLCU_X2OFATrHwqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
